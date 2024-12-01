@@ -1,0 +1,11 @@
+C:\Users\faridarsh\Desktop\List, Class Library\PB503Helper\bin\Debug\net6.0\PB503Helper.deps.json
+C:\Users\faridarsh\Desktop\List, Class Library\PB503Helper\bin\Debug\net6.0\PB503Helper.dll
+C:\Users\faridarsh\Desktop\List, Class Library\PB503Helper\bin\Debug\net6.0\PB503Helper.pdb
+C:\Users\faridarsh\Desktop\List, Class Library\PB503Helper\obj\Debug\net6.0\PB503Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faridarsh\Desktop\List, Class Library\PB503Helper\obj\Debug\net6.0\PB503Helper.AssemblyInfoInputs.cache
+C:\Users\faridarsh\Desktop\List, Class Library\PB503Helper\obj\Debug\net6.0\PB503Helper.AssemblyInfo.cs
+C:\Users\faridarsh\Desktop\List, Class Library\PB503Helper\obj\Debug\net6.0\PB503Helper.csproj.CoreCompileInputs.cache
+C:\Users\faridarsh\Desktop\List, Class Library\PB503Helper\obj\Debug\net6.0\PB503Helper.dll
+C:\Users\faridarsh\Desktop\List, Class Library\PB503Helper\obj\Debug\net6.0\refint\PB503Helper.dll
+C:\Users\faridarsh\Desktop\List, Class Library\PB503Helper\obj\Debug\net6.0\PB503Helper.pdb
+C:\Users\faridarsh\Desktop\List, Class Library\PB503Helper\obj\Debug\net6.0\ref\PB503Helper.dll

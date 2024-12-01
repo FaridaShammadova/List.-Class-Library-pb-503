@@ -1,0 +1,18 @@
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\obj\Debug\net6.0\List, Class Library.csproj.AssemblyReference.cache
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\obj\Debug\net6.0\List, Class Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\obj\Debug\net6.0\List, Class Library.AssemblyInfoInputs.cache
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\obj\Debug\net6.0\List, Class Library.AssemblyInfo.cs
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\obj\Debug\net6.0\List, Class Library.csproj.CoreCompileInputs.cache
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\bin\Debug\net6.0\List, Class Library.exe
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\bin\Debug\net6.0\List, Class Library.deps.json
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\bin\Debug\net6.0\List, Class Library.runtimeconfig.json
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\bin\Debug\net6.0\List, Class Library.dll
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\bin\Debug\net6.0\List, Class Library.pdb
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\bin\Debug\net6.0\PB503Helper.dll
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\bin\Debug\net6.0\PB503Helper.pdb
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\obj\Debug\net6.0\List, Cl.6113AFD0.Up2Date
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\obj\Debug\net6.0\List, Class Library.dll
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\obj\Debug\net6.0\refint\List, Class Library.dll
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\obj\Debug\net6.0\List, Class Library.pdb
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\obj\Debug\net6.0\List, Class Library.genruntimeconfig.cache
+C:\Users\faridarsh\Desktop\List, Class Library\List, Class Library\obj\Debug\net6.0\ref\List, Class Library.dll

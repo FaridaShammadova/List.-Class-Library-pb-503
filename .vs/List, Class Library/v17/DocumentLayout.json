@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faridarsh\\Desktop\\List, Class Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{361C52F3-DB52-4BEE-A8A1-45DFAC86E00C}|List, Class Library\\List, Class Library.csproj|c:\\users\\faridarsh\\desktop\\list, class library\\list, class library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C52F3-DB52-4BEE-A8A1-45DFAC86E00C}|List, Class Library\\List, Class Library.csproj|solutionrelative:list, class library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C52F3-DB52-4BEE-A8A1-45DFAC86E00C}|List, Class Library\\List, Class Library.csproj|c:\\users\\faridarsh\\desktop\\list, class library\\list, class library\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C52F3-DB52-4BEE-A8A1-45DFAC86E00C}|List, Class Library\\List, Class Library.csproj|solutionrelative:list, class library\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C52F3-DB52-4BEE-A8A1-45DFAC86E00C}|List, Class Library\\List, Class Library.csproj|c:\\users\\faridarsh\\desktop\\list, class library\\list, class library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C52F3-DB52-4BEE-A8A1-45DFAC86E00C}|List, Class Library\\List, Class Library.csproj|solutionrelative:list, class library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042CF301-FB34-43AB-A903-64631C747BC2}|PB503Helper\\PB503Helper.csproj|c:\\users\\faridarsh\\desktop\\list, class library\\pb503helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042CF301-FB34-43AB-A903-64631C747BC2}|PB503Helper\\PB503Helper.csproj|solutionrelative:pb503helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\faridarsh\\Desktop\\List, Class Library\\PB503Helper\\Helper.cs",
+              "RelativeDocumentMoniker": "PB503Helper\\Helper.cs",
+              "ToolTip": "C:\\Users\\faridarsh\\Desktop\\List, Class Library\\PB503Helper\\Helper.cs",
+              "RelativeToolTip": "PB503Helper\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:59:03.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\faridarsh\\Desktop\\List, Class Library\\List, Class Library\\Library.cs",
+              "RelativeDocumentMoniker": "List, Class Library\\Library.cs",
+              "ToolTip": "C:\\Users\\faridarsh\\Desktop\\List, Class Library\\List, Class Library\\Library.cs",
+              "RelativeToolTip": "List, Class Library\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:57:02.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\faridarsh\\Desktop\\List, Class Library\\List, Class Library\\Book.cs",
+              "RelativeDocumentMoniker": "List, Class Library\\Book.cs",
+              "ToolTip": "C:\\Users\\faridarsh\\Desktop\\List, Class Library\\List, Class Library\\Book.cs",
+              "RelativeToolTip": "List, Class Library\\Book.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewBkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:56:22.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faridarsh\\Desktop\\List, Class Library\\List, Class Library\\Program.cs",
+              "RelativeDocumentMoniker": "List, Class Library\\Program.cs",
+              "ToolTip": "C:\\Users\\faridarsh\\Desktop\\List, Class Library\\List, Class Library\\Program.cs",
+              "RelativeToolTip": "List, Class Library\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:56:02.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

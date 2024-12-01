@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List, Class Library", "List, Class Library\List, Class Library.csproj", "{361C52F3-DB52-4BEE-A8A1-45DFAC86E00C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB503Helper", "PB503Helper\PB503Helper.csproj", "{042CF301-FB34-43AB-A903-64631C747BC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361C52F3-DB52-4BEE-A8A1-45DFAC86E00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361C52F3-DB52-4BEE-A8A1-45DFAC86E00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361C52F3-DB52-4BEE-A8A1-45DFAC86E00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361C52F3-DB52-4BEE-A8A1-45DFAC86E00C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042CF301-FB34-43AB-A903-64631C747BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042CF301-FB34-43AB-A903-64631C747BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042CF301-FB34-43AB-A903-64631C747BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042CF301-FB34-43AB-A903-64631C747BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9AAB518-5927-48CB-9955-FB0972A03C41}
+	EndGlobalSection
+EndGlobal
